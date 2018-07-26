@@ -34,7 +34,7 @@ for ogrenci, notu in ogrenciler.items():
     ogrenciler[ogrenci]['vize'] = 0
 
 for key in ogrenciler:
-
+    pass
 # print(ogrenciler)
 
 vize_final_notları = {}
