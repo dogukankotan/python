@@ -2,39 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b79851a-696c-435e-80ac-3f49578648fc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/gun_3/dosya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/dosya2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/dosya_islemleri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/dosya_islemleri_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/dosyadan_veri_tabani.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/dosyam.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/ogrenci_kayit_programi_v_0_0_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/ogrenciler.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/ogrencilerim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/ornek.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/sahte_ogrenci_kayit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/sozluk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/tekrar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_3/tekrar_devam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/donguler_hakkinda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/dosya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/dosya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/dosya_acc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/ekleme_uzerine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/fonksiyonlar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/kumeler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/prnt_uzerine_soylesiler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/sozluk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_4/taaaa_en_bastan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_6/matematik.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_6/sayidan_yaziya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_6/yazdir_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_6/yazdir_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_6/yazdir_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gun_6/yazdirrr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_7/cekilis_v_0_0_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_7/diger_oyun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_7/m_f_r_l.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_7/ogrenci_sınıfı.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_7/oyun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_7/sınıflar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_7/vize_final_v_0_0_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_9/giris_cikis_islemleri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_9/ogrenci_kayit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gun_9/pseudo_code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gun_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/gun_2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gun_2/tekrar.py" beforeDir="false" afterPath="$PROJECT_DIR$/gun_2/tekrar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gun_6/yazdir_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/gun_6/yazdir_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gun_6/yazdirrr.py" beforeDir="false" afterPath="$PROJECT_DIR$/gun_6/yazdirrr.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,6 +26,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python2018$sayidan_yaziya.coverage" NAME="sayidan_yaziya Coverage Results" MODIFIED="1532595497865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
     <SUITE FILE_PATH="coverage/python2018$func_ornekler.coverage" NAME="func_ornekler Coverage Results" MODIFIED="1532191784931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python2018$oyun.coverage" NAME="oyun Coverage Results" MODIFIED="1532675784767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_7" />
     <SUITE FILE_PATH="coverage/python2018$kumeler.coverage" NAME="kumeler Coverage Results" MODIFIED="1532422897180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
     <SUITE FILE_PATH="coverage/python2018$ifelse.coverage" NAME="ifelse Coverage Results" MODIFIED="1532192068344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python2018$test.coverage" NAME="test Coverage Results" MODIFIED="1532178351749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -53,27 +34,37 @@
     <SUITE FILE_PATH="coverage/python2018$string.coverage" NAME="string Coverage Results" MODIFIED="1532186469304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python2018$donguler_hakkinda.coverage" NAME="donguler_hakkinda Coverage Results" MODIFIED="1532437489202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
     <SUITE FILE_PATH="coverage/python2018$dosyadan_veri_tabani.coverage" NAME="dosyadan_veri_tabani Coverage Results" MODIFIED="1532353100211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_3" />
+    <SUITE FILE_PATH="coverage/python2018$m_f_r_l.coverage" NAME="m_f_r_l Coverage Results" MODIFIED="1532681394598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_7" />
     <SUITE FILE_PATH="coverage/python2018$demetler.coverage" NAME="demetler Coverage Results" MODIFIED="1532186618899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python2018$taaaa_en_bastan.coverage" NAME="taaaa_en_bastan Coverage Results" MODIFIED="1532434824337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
     <SUITE FILE_PATH="coverage/python2018$main.coverage" NAME="main Coverage Results" MODIFIED="1532244827807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_2" />
+    <SUITE FILE_PATH="coverage/python2018$snflar.coverage" NAME="sınıflar Coverage Results" MODIFIED="1532693497926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_7" />
+    <SUITE FILE_PATH="coverage/python2018$zar_atma.coverage" NAME="zar_atma Coverage Results" MODIFIED="1532624130652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
     <SUITE FILE_PATH="coverage/python2018$ogrenci_kayit_programi_v_0_0_2.coverage" NAME="ogrenci_kayit_programi_v_0_0_2 Coverage Results" MODIFIED="1532347204414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_3" />
     <SUITE FILE_PATH="coverage/python2018$sozluk__1_.coverage" NAME="sozluk (1) Coverage Results" MODIFIED="1532434241601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
-    <SUITE FILE_PATH="coverage/python2018$yazdir_4.coverage" NAME="yazdir_4 Coverage Results" MODIFIED="1532608159035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
+    <SUITE FILE_PATH="coverage/python2018$yazdir_4.coverage" NAME="yazdir_4 Coverage Results" MODIFIED="1532675214593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
     <SUITE FILE_PATH="coverage/python2018$fonksiyonlar.coverage" NAME="fonksiyonlar Coverage Results" MODIFIED="1532440385850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
     <SUITE FILE_PATH="coverage/python2018$ogrenci_kayit_programi_V_0_0_1.coverage" NAME="ogrenci_kayit_programi_V_0_0_1 Coverage Results" MODIFIED="1532278673566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_2" />
     <SUITE FILE_PATH="coverage/python2018$yazdir_2.coverage" NAME="yazdir_2 Coverage Results" MODIFIED="1532606621775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
-    <SUITE FILE_PATH="coverage/python2018$yazdirrr.coverage" NAME="yazdirrr Coverage Results" MODIFIED="1532597242587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
+    <SUITE FILE_PATH="coverage/python2018$ogrenci_kayit.coverage" NAME="ogrenci_kayit Coverage Results" MODIFIED="1532880049081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_9" />
     <SUITE FILE_PATH="coverage/python2018$matematik.coverage" NAME="matematik Coverage Results" MODIFIED="1532608795984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
+    <SUITE FILE_PATH="coverage/python2018$yazdirrr.coverage" NAME="yazdirrr Coverage Results" MODIFIED="1532675175169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
+    <SUITE FILE_PATH="coverage/python2018$cekilis_v_0_0_1.coverage" NAME="cekilis_v_0_0_1 Coverage Results" MODIFIED="1532683942119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_7" />
     <SUITE FILE_PATH="coverage/python2018$prnt_uzerine_soylesiler.coverage" NAME="prnt_uzerine_soylesiler Coverage Results" MODIFIED="1532433023135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
     <SUITE FILE_PATH="coverage/python2018$dosya.coverage" NAME="dosya Coverage Results" MODIFIED="1532451533664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
+    <SUITE FILE_PATH="coverage/python2018$diger_oyun.coverage" NAME="diger_oyun Coverage Results" MODIFIED="1532676010021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_7" />
+    <SUITE FILE_PATH="coverage/python2018$giris_cikis_islemleri.coverage" NAME="giris_cikis_islemleri Coverage Results" MODIFIED="1532855909247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_9" />
     <SUITE FILE_PATH="coverage/python2018$dosya_islemleri.coverage" NAME="dosya_islemleri Coverage Results" MODIFIED="1532346829252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_3" />
+    <SUITE FILE_PATH="coverage/python2018$mat_ornek.coverage" NAME="mat_ornek Coverage Results" MODIFIED="1532613656969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
     <SUITE FILE_PATH="coverage/python2018$ogrenci_hesaplama.coverage" NAME="ogrenci_hesaplama Coverage Results" MODIFIED="1532247725466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_2" />
+    <SUITE FILE_PATH="coverage/python2018$ogrenci_snf.coverage" NAME="ogrenci_sınıfı Coverage Results" MODIFIED="1532694161670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_7" />
     <SUITE FILE_PATH="coverage/python2018$yazdir_3.coverage" NAME="yazdir_3 Coverage Results" MODIFIED="1532607786700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
     <SUITE FILE_PATH="coverage/python2018$tekrar.coverage" NAME="tekrar Coverage Results" MODIFIED="1532329933632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_3" />
     <SUITE FILE_PATH="coverage/python2018$dosya_islemleri_2.coverage" NAME="dosya_islemleri_2 Coverage Results" MODIFIED="1532351177267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_3" />
     <SUITE FILE_PATH="coverage/python2018$ekleme_uzerine.coverage" NAME="ekleme_uzerine Coverage Results" MODIFIED="1532433646892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_4" />
     <SUITE FILE_PATH="coverage/python2018$sozluk.coverage" NAME="sozluk Coverage Results" MODIFIED="1532354398692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_3" />
     <SUITE FILE_PATH="coverage/python2018$tekrar_devam.coverage" NAME="tekrar_devam Coverage Results" MODIFIED="1532335915953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_3" />
+    <SUITE FILE_PATH="coverage/python2018$mat_ornek2.coverage" NAME="mat_ornek2 Coverage Results" MODIFIED="1532618059331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
     <SUITE FILE_PATH="coverage/python2018$matematik2.coverage" NAME="matematik2 Coverage Results" MODIFIED="1532608656842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gun_6" />
   </component>
   <component name="DatabaseView">
@@ -91,84 +82,43 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="fonksiyonlar.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_4/fonksiyonlar.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="giris_cikis_islemleri.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gun_9/giris_cikis_islemleri.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="264">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+              <folding>
+                <marker date="1532871144661" expanded="true" signature="1025:1032" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dosya.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_4/dosya.py">
+      <file leaf-file-name="ogrenci_kayit.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gun_9/ogrenci_kayit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="506">
+              <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+              <folding>
+                <element signature="e#133#370#0" />
+                <element signature="e#360#723#0" />
+                <element signature="e#374#671#0" />
+                <element signature="e#677#912#0" />
+                <element signature="e#753#805#0" />
+                <element signature="e#1092#1099#0" />
+                <element signature="e#1094#1181#0" />
+                <element signature="e#1234#1238#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sayidan_yaziya.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_6/sayidan_yaziya.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yazdirrr.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_6/yazdirrr.py">
+      <file leaf-file-name="ogrenciler.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gun_9/ogrenciler.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yazdir_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_6/yazdir_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yazdir_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_6/yazdir_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yazdir_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_6/yazdir_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="matematik.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gun_6/matematik.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="math.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1247971763/math.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="342" column="16" selection-start-line="342" selection-start-column="4" selection-end-line="342" selection-end-column="16" />
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -188,12 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/string.py" />
-        <option value="$PROJECT_DIR$/demetler.py" />
-        <option value="$PROJECT_DIR$/sozluk.py" />
-        <option value="$PROJECT_DIR$/func_ornekler.py" />
-        <option value="$PROJECT_DIR$/ifelse.py" />
         <option value="$PROJECT_DIR$/gun_2/ogrenci_hesaplama.py" />
         <option value="$PROJECT_DIR$/gun_2/manav.py" />
         <option value="$PROJECT_DIR$/gun_2/fonksiyonlar.py" />
@@ -225,10 +169,26 @@
         <option value="$PROJECT_DIR$/gun_6/sayidan_yaziya.py" />
         <option value="$PROJECT_DIR$/gun_6/yazdir_2.py" />
         <option value="$PROJECT_DIR$/gun_6/yazdir_3.py" />
-        <option value="$PROJECT_DIR$/gun_6/yazdirrr.py" />
-        <option value="$PROJECT_DIR$/gun_6/yazdir_4.py" />
         <option value="$PROJECT_DIR$/gun_6/matematik2.py" />
         <option value="$PROJECT_DIR$/gun_6/matematik.py" />
+        <option value="$PROJECT_DIR$/gun_6/mat_ornek.py" />
+        <option value="$PROJECT_DIR$/gun_6/mat_ornek2.py" />
+        <option value="$PROJECT_DIR$/gun_6/zar_atma.py" />
+        <option value="$PROJECT_DIR$/gun_6/yazdir_4.py" />
+        <option value="$PROJECT_DIR$/gun_6/yazdirrr.py" />
+        <option value="$PROJECT_DIR$/gun_7/diger_oyun.py" />
+        <option value="$PROJECT_DIR$/gun_7/oyun.py" />
+        <option value="$PROJECT_DIR$/gun_7/m_f_r_l.py" />
+        <option value="$PROJECT_DIR$/gun_7/cekilis_v_0_0_1.py" />
+        <option value="$PROJECT_DIR$/gun_7/sınıflar.py" />
+        <option value="$PROJECT_DIR$/gun_7/ogrenci_sınıfı.py" />
+        <option value="$PROJECT_DIR$/gonderilmeyecek.py" />
+        <option value="$PROJECT_DIR$/gun_9/pseudo_code.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/gun_9/giris_cikis_islemleri.py" />
+        <option value="$PROJECT_DIR$/gun_9/ogrenciler.txt" />
+        <option value="$PROJECT_DIR$/gun_9/ogrenci_kayit.py" />
       </list>
     </option>
   </component>
@@ -252,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,20 +222,26 @@
             <path>
               <item name="python2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="python2018" type="462c0819:PsiDirectoryNode" />
-              <item name="gun_6" type="462c0819:PsiDirectoryNode" />
+              <item name="gun_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python2018" type="462c0819:PsiDirectoryNode" />
+              <item name="gun_9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="decrea&#9;ACTION&#9;EditorDecreaseFontSize&#10;decrease&#9;ACTION&#9;EditorDecreaseFontSize&#10;increa&#9;ACTION&#9;EditorIncreaseFontSize&#10;fontsize&#9;ACTION&#9;EditorIncreaseFontSize" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projeler/inekler" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -296,7 +261,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matematik">
+  <component name="RunManager" selected="Python.ogrenci_kayit">
+    <configuration name="cekilis_v_0_0_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_7/cekilis_v_0_0_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="giris_cikis_islemleri" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_9/giris_cikis_islemleri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="kumeler" type="PythonConfigurationType" factoryName="Python">
       <module name="python2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,7 +319,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="matematik" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ogrenci_kayit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,18 +327,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_6/matematik.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_9/ogrenci_kayit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="matematik2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ogrenci_sınıfı" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,18 +346,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_6/matematik2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_7/ogrenci_sınıfı.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="yazdir_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sınıflar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -362,50 +365,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_6/yazdir_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="yazdir_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python2018" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_6/yazdir_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="yazdir_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python2018" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gun_6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_6/yazdir_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gun_7/sınıflar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,19 +378,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.kumeler" />
-      <item itemvalue="Python.yazdir_2" />
-      <item itemvalue="Python.yazdir_3" />
-      <item itemvalue="Python.yazdir_4" />
-      <item itemvalue="Python.matematik" />
-      <item itemvalue="Python.matematik2" />
+      <item itemvalue="Python.cekilis_v_0_0_1" />
+      <item itemvalue="Python.sınıflar" />
+      <item itemvalue="Python.ogrenci_sınıfı" />
+      <item itemvalue="Python.giris_cikis_islemleri" />
+      <item itemvalue="Python.ogrenci_kayit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.matematik" />
-        <item itemvalue="Python.matematik2" />
-        <item itemvalue="Python.yazdir_4" />
-        <item itemvalue="Python.yazdir_3" />
-        <item itemvalue="Python.yazdir_2" />
+        <item itemvalue="Python.ogrenci_kayit" />
+        <item itemvalue="Python.giris_cikis_islemleri" />
+        <item itemvalue="Python.ogrenci_sınıfı" />
+        <item itemvalue="Python.sınıflar" />
+        <item itemvalue="Python.cekilis_v_0_0_1" />
       </list>
     </recent_temporary>
   </component>
@@ -442,54 +407,62 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1026" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3294893" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="3" weight="0.6368159" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.2620232" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.29519072" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20449898" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.3360791" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.34102142" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.18286656" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.27709612" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32924336" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3283582" />
       <window_info anchor="right" id="SciView" order="1" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.39966834" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3970346" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24539877" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.2620232" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20449898" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.29021558" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3283582" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32924336" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.29519072" />
       <window_info anchor="bottom" id="Python Console" order="3" weight="0.6368159" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="1" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.39966834" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.29519072" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
@@ -502,136 +475,46 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>[x.split(&quot;|&quot;)[0] for x in str_kul]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>list(filter(lambda x: x==k_adi, kullanicilar))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str_kul</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>[x.split(&quot;|&quot;)[0] for x in str_kul]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f.readlines()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>read</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gun_1/string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_1/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/tekrar_devam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/dosya2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_1/func_ornekler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_1/ifelse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/typing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="2290" column="8" selection-start-line="2290" selection-start-column="8" selection-end-line="2290" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/dosyam.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" lean-forward="true" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/dosya.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/tekrar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/dosya_islemleri.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_2/fonksiyonlar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_2/manav.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_2/ogrenci_hesaplama.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_2/ogrenci_kayit_programi_V_0_0_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="65" selection-start-line="65" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/ogrenciler.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gun_3/ornek.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="336" column="8" selection-start-line="336" selection-start-column="8" selection-end-line="336" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gun_2/tekrar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -726,9 +609,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_4/dosya2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_4/dosya2.txt" />
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1247971763/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-880">
@@ -736,13 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_4/lyk-logo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="3" lean-forward="true" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_4/lyk-logo.txt" />
     <entry file="file://$PROJECT_DIR$/gun_4/dosya.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -760,13 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_4/Yağmur yağıyor&#10;gök gürlüyor&#10;">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_4/Yağmur yağıyor&#10;gök gürlüyor&#10;" />
     <entry file="file://$PROJECT_DIR$/gun_4/yeni_dosya3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -795,17 +664,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_6/sayidan_yaziya.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1247971763/math.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="203">
+          <caret line="341" column="4" lean-forward="true" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_6/yazdir_3.py">
+    <entry file="file://$PROJECT_DIR$/gun_6/zar_atma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_6/mat_ornek.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_6/matematik.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_6/mat_ornek2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_6/matematik2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_6/sayidan_yaziya.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -816,38 +720,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_6/yazdirrr.py">
+    <entry file="file://$PROJECT_DIR$/gun_6/yazdir_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="19" />
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gun_6/yazdir_4.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_6/yazdirrr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_7/diger_oyun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_7/oyun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_7/cekilis_v_0_0_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_7/m_f_r_l.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_7/sınıflar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_7/ogrenci_sınıfı.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_6/matematik2.py">
+    <entry file="file://$PROJECT_DIR$/gonderilmeyecek.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_9/pseudo_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="66">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gun_6/matematik.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          <caret selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1247971763/math.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/python3.6/typing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="342" column="16" selection-start-line="342" selection-start-column="4" selection-end-line="342" selection-end-column="16" />
+        <state relative-caret-position="-176">
+          <caret line="2314" column="8" selection-start-line="2314" selection-start-column="8" selection-end-line="2314" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_9/veritabani.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_9/giris_cikis_islemleri.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <marker date="1532871144661" expanded="true" signature="1025:1032" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_9/ogrenciler.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gun_9/ogrenci_kayit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding>
+            <element signature="e#133#370#0" />
+            <element signature="e#360#723#0" />
+            <element signature="e#374#671#0" />
+            <element signature="e#677#912#0" />
+            <element signature="e#753#805#0" />
+            <element signature="e#1092#1099#0" />
+            <element signature="e#1094#1181#0" />
+            <element signature="e#1234#1238#0" />
+          </folding>
         </state>
       </provider>
     </entry>

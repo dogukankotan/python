@@ -17,7 +17,9 @@ def sayi_yazdir(say):
         else:
             print("yuz", onlar[int(say[1])], birler[int(say[2])])
 
-
+print("Eski")
+print(__name__)
+print(__file__)
 
 if __name__ == '__main__':
     say = input("Sayi giriniz?")
